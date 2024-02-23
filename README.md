@@ -1,4 +1,4 @@
-# Practical guide to cancer data retrieval from major online archives
+## Practical guide to cancer data retrieval from major online archives
 
 One of the first difficulties when one wants to develop a tool or model to work on biological data is data retrieval. In fact, many of the sites used in this area do not have easily accessible and understandable documentation regarding online data retrieval.
 
