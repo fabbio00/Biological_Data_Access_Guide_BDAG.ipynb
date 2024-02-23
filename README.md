@@ -8,7 +8,7 @@ This mini-guide contains some simple practical examples for each of the aforemen
 
 ## Table of contents
 
-- [Practical guide to cancer data retrieval from major online archives](#practical-guide-to-cancer-data retrieval-from-major-online-archives)
+- [Practical guide to cancer data retrieval from major online archives](#practical-guide-to-cancer-data-retrieval-from-major-online-archives)
   -  [The Cancer Genome Atlas](#the-cancer-genome-atlas)
   -  [cBioPortal](#cbioportal)
   -  [FireBrowse](#firebrowse)
